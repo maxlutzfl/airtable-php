@@ -1,0 +1,10 @@
+{
+    "name": "maxlutzfl/airtable-php",
+    "authors": [
+        {
+            "name": "Max Lutz",
+            "email": "maxlutzfl@gmail.com"
+        }
+    ],
+    "require": {}
+}
